@@ -25,5 +25,5 @@ This repository is created to strengthen my SQL skills and build a professional 
 - joins.sql
 - aggregate_functions.sql
 - subqueries.sql
-- case.statements.sql
-- sample.dataset.csv
+- case_statements.sql
+- sample_dataset.csv
